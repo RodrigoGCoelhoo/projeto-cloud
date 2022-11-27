@@ -1,0 +1,23 @@
+{
+  "sa-east-1": {
+    "16.04 LTS": "ami-0a03639393082dea8",
+    "18.04 LTS": "ami-03821cac50e5c320a"
+  },
+  "us-east-1": {
+    "16.04 LTS": "ami-0059b7cd9f67d8050",
+    "18.04 LTS": "ami-0a0e34dc5d572bf9d"
+  },
+  "us-east-2": {
+    "16.04 LTS": "ami-097261bd06e355492",
+    "18.04 LTS": "ami-010e4a6291d33c090"
+  },
+  "us-west-1": {
+    "16.04 LTS": "ami-04a119c5b7ed4e7ad",
+    "18.04 LTS": "ami-02d9763ac9c5603db"
+  },
+  "us-west-2": {
+    "18.04 LTS": "ami-000340e2c761dddcd",
+    "20.04 LTS": "ami-0c09c7eb16d3e8e70",
+    "22.04 LTS": "ami-017fecd1353bcc96e"
+  }
+}
