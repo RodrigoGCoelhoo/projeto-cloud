@@ -11,8 +11,6 @@ Nesse projeto desenvolvemos uma aplicação utilizando Terraform responsável po
 
 ## Como executar o projeto?
 
----
-
 1. Instalar dependências:
 
 - [Terraform CLI](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
@@ -26,8 +24,6 @@ export AWS_SECRET_ACCESS_KEY="asecretkey"
 ```
 
 ## O que é possível fazer com o projeto?
-
----
 
 - Criar:
 
@@ -52,8 +48,6 @@ export AWS_SECRET_ACCESS_KEY="asecretkey"
 
 ## Modo de uso
 
----
-
 1. A partir da raiz do projeto, acesse a pasta "python"
 
 ```bash
@@ -69,8 +63,6 @@ python main.py
 > **Importante:** A primeira execução do programa é lenta pois o programa inicializa o terraform em todas as pastas usadas na aplicação.
 
 ## Bibliotecas auxiliares
-
----
 
 - [Simple Colors](https://github.com/weaming/simple-colors)
 - [Inquirer](https://github.com/magmax/python-inquirer)
